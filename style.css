@@ -1,0 +1,31 @@
+body{
+	background-color: lightgrey;
+	font-family: sans-serif;
+}
+h1{
+	width: 500px;
+	margin-left: 300px;
+	margin : auto;}
+h2{
+	width: 500px;
+	margin-left: 300px;
+	margin : auto;}
+div{
+	width: 500px;
+	margin-left: 300px;
+	margin : auto;
+	}
+p{	
+	width :500px;
+	margin-left: 300px;
+	margin : auto;}
+blockquote{
+	text-align: center;
+	width :500px;
+	height :40px;
+	margin-left: 300px;
+	margin:auto;
+	border: 1px solid white;
+	padding-top: 15px;
+
+}
